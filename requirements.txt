@@ -1,0 +1,9 @@
+Django
+djangorestframework==3.12.2
+mysqlclient==2.0.3
+django-mysql==3.11.1
+django-cors-headers==3.7.0
+PYJWT==2.0.1
+faker==6.6.1
+django-redis==4.12.1
+Pillow
